@@ -4,7 +4,7 @@ This project is designed to count vehicles in a video stream using the YOLOv8 mo
 
 ## Installation
 
-To run this project, make sure you have Python 3.x installed. Then, install the required libraries:
+To run this project, make sure you have Python installed. Then, install the required libraries:
 
 ```bash
 pip install -r requirements.txt
