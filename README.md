@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/seu-usuario/Vehicle-Counter-YOLO.git
+   git clone https://github.com/luisf-eb/Vehicle-Counter-YOLO.git
    cd Vehicle-Counter-YOLO
    ```
 
